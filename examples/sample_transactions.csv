@@ -1,0 +1,25 @@
+﻿date,merchant,description,amount,currency,kind,category,note,items
+2026-11-01,Test - Monthly employer,Test - Monthly employer,1800.00,USD,income,Income,SAMPLE ONLY,[]
+2026-11-03,Test - Freelance client,Test - Freelance client,250.00,USD,income,Income,SAMPLE ONLY,[]
+2026-11-04,Test - Brown Coffee,Test - Brown Coffee,7.25,USD,expense,,SAMPLE ONLY - Blank category tests suggestions,"[{""name"": ""Iced latte"", ""price"": ""4.50""}, {""name"": ""Banana bread"", ""price"": ""2.75""}]"
+2026-11-05,Test - Lucky Supermarket,Test - Lucky Supermarket,28.75,USD,expense,Groceries,SAMPLE ONLY,"[{""name"": ""Rice 5 kg"", ""price"": ""16.00""}, {""name"": ""Vegetables"", ""price"": ""8.25""}, {""name"": ""Bread"", ""price"": ""4.50""}, {""name"": ""Complimentary bag"", ""price"": ""0.00""}]"
+2026-11-06,Test - Grab ride,Test - Grab ride,3.25,USD,expense,Transport,SAMPLE ONLY,"[{""name"": ""Tuk-tuk fare"", ""price"": ""3.25""}]"
+2026-11-07,Test - Lunch cafe,Test - Lunch cafe,12.50,USD,expense,Food & drinks,SAMPLE ONLY,"[{""name"": ""Chicken rice"", ""price"": ""7.00""}, {""name"": ""Soup"", ""price"": ""3.00""}, {""name"": ""Lemon tea"", ""price"": ""2.50""}]"
+2026-11-08,Test - Internet provider,Test - Internet provider,25.00,USD,expense,Bills & utilities,SAMPLE ONLY,"[{""name"": ""Monthly internet plan"", ""price"": ""25.00""}]"
+2026-11-09,Test - Electricity provider,Test - Electricity provider,38.40,USD,expense,Bills & utilities,SAMPLE ONLY,"[{""name"": ""Electricity usage"", ""price"": ""38.40""}]"
+2026-11-10,Test - Clothing shop,Test - Clothing shop,19.90,USD,expense,Shopping,SAMPLE ONLY,"[{""name"": ""Cotton shirt"", ""price"": ""12.90""}, {""name"": ""Socks - 2 pairs"", ""price"": ""7.00""}]"
+2026-11-11,Test - Cinema,Test - Cinema,7.50,USD,expense,Entertainment,SAMPLE ONLY,"[{""name"": ""Movie ticket"", ""price"": ""5.00""}, {""name"": ""Popcorn"", ""price"": ""2.50""}]"
+2026-11-12,Test - Pharmacy,Test - Pharmacy,9.80,USD,expense,Health,SAMPLE ONLY,"[{""name"": ""Vitamins"", ""price"": ""6.80""}, {""name"": ""Bandages"", ""price"": ""3.00""}]"
+2026-11-13,Test - Online school,Test - Online school,15.00,USD,expense,Education,SAMPLE ONLY,"[{""name"": ""Python course"", ""price"": ""15.00""}]"
+2026-11-14,Test - Siem Reap hotel,Test - Siem Reap hotel,45.00,USD,expense,Travel,SAMPLE ONLY,"[{""name"": ""Room - one night"", ""price"": ""45.00""}]"
+2026-11-15,Test - Decimal corner shop,Test - Decimal corner shop,0.30,USD,expense,Other,SAMPLE ONLY - Exact decimal test: 0.10 + 0.20 = 0.30,"[{""name"": ""Small item A"", ""price"": ""0.10""}, {""name"": ""Small item B"", ""price"": ""0.20""}]"
+2026-11-16,Test - Restaurant with service fee,Test - Restaurant with service fee,21.50,USD,expense,Food & drinks,SAMPLE ONLY - Items subtotal 20.00 plus service fee 1.50,"[{""name"": ""Dinner for two"", ""price"": ""20.00""}]"
+2026-11-17,Test - Discount clothing shop,Test - Discount clothing shop,27.00,USD,expense,Shopping,SAMPLE ONLY - Items subtotal 30.00 less discount 3.00,"[{""name"": ""T-shirt - 2 units"", ""price"": ""30.00""}]"
+2026-11-02,Test - Local project client,Test - Local project client,500000,KHR,income,Income,SAMPLE ONLY,[]
+2026-11-18,??????? - ?????????,??????? - ?????????,35000,KHR,expense,Groceries,SAMPLE ONLY,"[{""name"": ""?????"", ""price"": ""25000""}, {""name"": ""?????"", ""price"": ""6000""}, {""name"": ""????"", ""price"": ""4000""}]"
+2026-11-19,??????? - ?????????,??????? - ?????????,8000,KHR,expense,Food & drinks,SAMPLE ONLY - Each item price is the full line total,"[{""name"": ""?????? - 2 ???"", ""price"": ""8000""}]"
+2026-11-20,Test - PassApp ride,Test - PassApp ride,6000,KHR,expense,,SAMPLE ONLY - Blank category tests suggestions,"[{""name"": ""Tuk-tuk fare"", ""price"": ""6000""}]"
+2026-11-21,??????? - ??????????????????,??????? - ??????????????????,20000,KHR,expense,Transport,SAMPLE ONLY,"[{""name"": ""????"", ""price"": ""20000""}]"
+2026-11-22,Test - Book and stationery shop,Test - Book and stationery shop,12000,KHR,expense,Education,SAMPLE ONLY - Comma in an item name tests CSV quoting,"[{""name"": ""Notebook, A5"", ""price"": ""7000""}, {""name"": ""Pens - 2 units"", ""price"": ""5000""}]"
+2026-11-23,??????? - ?????????????,??????? - ?????????????,18000,KHR,expense,Bills & utilities,SAMPLE ONLY,"[{""name"": ""???????"", ""price"": ""18000""}]"
+2026-11-25,??????? - ????????,??????? - ????????,5000,KHR,expense,Food & drinks,SAMPLE ONLY,"[{""name"": ""??"", ""price"": ""1000""}, {""name"": ""???"", ""price"": ""3000""}, {""name"": ""???"", ""price"": ""1000""}]"
